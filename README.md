@@ -1,4 +1,4 @@
-## LSTM Language Model From Scratch (PyTorch)
+## LSTM Language Model From Scratch
 
 This repository contains a character-level LSTM language model implemented from scratch using PyTorch, trained on the text of Pride and Prejudice.
 The project includes:
